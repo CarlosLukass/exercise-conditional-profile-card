@@ -74,9 +74,11 @@
 }
 .widget ul.position-left {
   left: -26px;
+  width: 25px;
 }
 .widget ul.position-right {
   right: -27px;
+  width: 25px;
 }
 .widget ul li {
   list-style: none;
